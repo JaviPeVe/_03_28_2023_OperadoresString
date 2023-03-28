@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3f2dc3-6db7-4ea0-ad96-ad5be903ac14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarClaseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f3f2dc3-6db7-4ea0-ad96-ad5be903ac14" name="Changes" comment="Proyecto a las 21:01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +45,19 @@
       <option name="presentableId" value="Default" />
       <updated>1680023136948</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto a las 21:01">
+      <created>1680031003256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680031003257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto a las 21:00" />
+    <MESSAGE value="Proyecto a las 21:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto a las 21:01" />
   </component>
 </project>
